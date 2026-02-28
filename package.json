@@ -17,7 +17,6 @@
     "clean",
     "lint",
     "test",
-    "browser",
     "report",
     "size"
   ],
